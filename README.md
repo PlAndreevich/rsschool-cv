@@ -1,2 +1,5 @@
 # rsschool-cv
-CV#1. Markdown &amp; Git
+
+## Markdown CV
+
+[https://plandreevich.github.io/rsschool-cv/cv](https://plandreevich.github.io/rsschool-cv/cv)
